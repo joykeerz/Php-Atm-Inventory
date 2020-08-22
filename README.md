@@ -122,4 +122,7 @@ Donations
 Donations are **greatly appreciated!**
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+
+# Tentang Proyek
+Aplikasi yang dibuat untuk perusahaan tertentu dengan php native dan template Bootstrap 3 admin LTE
 # Php-Atm-Inventory
